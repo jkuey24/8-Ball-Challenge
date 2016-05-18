@@ -1,0 +1,13 @@
+body {
+  background-image: url("8ball.jpg");
+  background-size: cover;
+
+
+}
+
+h1 {
+  font-size: 60pt;
+  font-family: arial;
+  color: white;
+
+}

@@ -3,7 +3,7 @@
 $(document).ready(function(){
 
 //we created a variable that contains an array of our answers
-var answers = ["Yup!", "Fuhgeddaboudit", "Maybe", "Ask: what would your mother do?", "Ask: what would an Australian do", "then do the opposite", "Screw You!"]
+var answers = ["Yup!", "Fuhgeddaboudit", "Maybe", "Ask: what would your mother do?", "Ask: what would an Australian do", "then do the opposite", "Go Away!"]
 
 //we are taking the button from the HTML and making it execute a function when clicked
   $("button").click(function(){
