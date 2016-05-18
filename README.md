@@ -1,1 +1,1 @@
-# 8-Ball-Challenge-JQuery 
+# 8-Ball-Challenge
